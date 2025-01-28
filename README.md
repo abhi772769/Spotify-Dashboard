@@ -12,7 +12,7 @@ Spotify Developer account to obtain API credentials.
 # Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/Harshithvarma007/Spotify-Dashboard.git
+git clone https://github.com/abhi772769/Spotify-Dashboard.git
 Open the Power BI Desktop application and load the dashboard.pbix file.
 
 # Setup Spotify Developer API
